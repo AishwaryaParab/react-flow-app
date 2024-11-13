@@ -1,0 +1,6 @@
+.workflow-panel {
+    flex: 4;
+    /* background-color: aquamarine; */
+    height: calc(100vh - 60px);
+    width: 100%;
+}
